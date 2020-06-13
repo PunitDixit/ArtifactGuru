@@ -5,8 +5,8 @@
     <classes>
       <class name="pkg.AppTest">
         <methods>
-          <include name="day4"/>
           <include name="openBrowser"/>
+          <include name="day6"/>
           <include name="quit"/>
         </methods>
       </class> <!-- pkg.AppTest -->
